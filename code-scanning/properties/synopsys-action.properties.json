@@ -5,3 +5,5 @@
     "iconName": "synopsys-action",
     "categories": ["Code Scanning", "C", "C++", "C#", "Go", "Java", "JavaScript", "Ruby", "PHP", "Swift", "Kotlin" , "Python", "VB.NET", "Objective C"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=synopsys-action.properties.json

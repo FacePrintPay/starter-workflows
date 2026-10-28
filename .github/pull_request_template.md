@@ -59,3 +59,5 @@ It is not:
     ```
 - [ ] Automation and CI workflows should not send data to any 3rd party service except for the purposes of installing dependencies.
 - [ ] Automation and CI workflows cannot be dependent on a paid service or product.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=pull_request_template.md

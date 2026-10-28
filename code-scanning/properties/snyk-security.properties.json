@@ -5,3 +5,5 @@
     "iconName": "snyk",
     "categories": ["Code Scanning","JavaScript", "Python", "Java", "PHP", "C#", "C", "C++", "Ruby", "Swift", "Go", "TypeScript", "Kotlin", "Apex", "Scala", "Terraform", "Dockerfile"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=snyk-security.properties.json

@@ -5,3 +5,5 @@
     "iconName": "generator-generic-ossf-slsa3-publish",
     "categories": ["Continuous integration", "Go", "Elixir", "Erlang", "PHP", "Haskell", "Rust", "Java", "Scala", "Gradle", "Maven", "Python", "C", "C++", "TypeScript", "JavaScript", "npm", "Ruby", "HTML", "Composer", "Makefile", "Ada"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=generator-generic-ossf-slsa3-publish.properties.json

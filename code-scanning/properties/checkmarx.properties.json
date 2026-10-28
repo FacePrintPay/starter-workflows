@@ -5,3 +5,4 @@
     "iconName": "checkmarx",
     "categories": ["Code Scanning", "javascript", "python", "java", "php", "c#", "c", "c++", "ruby", "swift", "go", "json", "kotlin", "apex", "scala", "perl"]
 }
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=checkmarx.properties.json

@@ -5,3 +5,5 @@
     "iconName": "sysdig-scan",
     "categories": ["Code Scanning", "Dockerfile", "C", "C#", "C++", "Go", "Java", "JavaScript", "Node", "Python", "Powershell", "Ruby"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=sysdig-scan.properties.json

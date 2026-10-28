@@ -5,3 +5,5 @@
     "iconName": "sonarqube",
     "categories": ["Code Scanning","abap","apex","c","cobol","cpp","cloudformation","csharp","css","flex","go","java","javascript","kotlin","objectivec","php","plsql","ruby","scala","swift","terraform","tsql","typescript","vb","vba","xml"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=sonarqube.properties.json

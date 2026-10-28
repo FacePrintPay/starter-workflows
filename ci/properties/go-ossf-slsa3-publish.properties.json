@@ -5,3 +5,5 @@
     "iconName": "go-ossf-slsa3-publish",
     "categories": ["Continuous integration", "Go"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=go-ossf-slsa3-publish.properties.json

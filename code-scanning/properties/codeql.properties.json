@@ -6,3 +6,5 @@
     "iconName": "octicon mark-github",
     "categories": ["Code Scanning", "C", "C++", "C#", "Go", "Java", "JavaScript", "TypeScript", "Python", "Ruby", "Kotlin", "Swift"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=codeql.properties.json

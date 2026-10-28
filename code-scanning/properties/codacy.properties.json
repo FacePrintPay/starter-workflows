@@ -5,3 +5,4 @@
     "iconName": "codacy",
     "categories": ["Code Scanning", "apex", "bash", "c", "coffeescript", "c++", "c#", "crystal", "dockerfile", "elixir", "go", "groovy", "java", "javascript", "jsp", "kotlin", "markdown", "php", "plsql", "powershell", "python", "ruby", "scala", "swift", "tsql", "typescript", "velocity", "vba", "xml"]
 }
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=codacy.properties.json

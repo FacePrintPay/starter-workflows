@@ -5,3 +5,4 @@
     "iconName": "veracode",
     "categories": ["Code Scanning", "javascript", "python", "java", "php", "c#", "c", "c++", "ruby", "swift", "go", "kotlin", "scala", "groovy", "tsql", "plsql", "perl", "cobol"]
 }
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=veracode.properties.json
